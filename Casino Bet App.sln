@@ -1,0 +1,30 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino Bet App", "Casino Bet App.csproj", "{F300DDA0-07E8-458E-745F-3DB6B60637B5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Casino_Bet_And_Win", "Casino_Bet_And_Win.csproj", "{11932408-7EA6-CCB0-5D8E-DAA92F50B5B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F300DDA0-07E8-458E-745F-3DB6B60637B5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F300DDA0-07E8-458E-745F-3DB6B60637B5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F300DDA0-07E8-458E-745F-3DB6B60637B5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F300DDA0-07E8-458E-745F-3DB6B60637B5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{11932408-7EA6-CCB0-5D8E-DAA92F50B5B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{11932408-7EA6-CCB0-5D8E-DAA92F50B5B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{11932408-7EA6-CCB0-5D8E-DAA92F50B5B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{11932408-7EA6-CCB0-5D8E-DAA92F50B5B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {8B8FDB0B-6222-465E-97DB-CC369D414FC3}
+	EndGlobalSection
+EndGlobal
